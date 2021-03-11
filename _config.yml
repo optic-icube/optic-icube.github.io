@@ -20,12 +20,10 @@ desc: The Best Way to Cook your Hot-Potato
 
 # List of links in the navigation bar
 navbar-links:
-  Me: "https://jroluttringer.github.io/#me"
-  Publications: "https://jroluttringer.github.io/#publication"
-  Presentations: "https://jroluttringer.github.io/#presentation"
-  Teaching: "https://jroluttringer.github.io/#teaching"
-  Reviewing: "https://jroluttringer.github.io/#review"
-  Research: "https://jroluttringer.github.io/#research"
+  What's Optic?: "https://jroluttringer.github.io/#me"
+  Publications & Presentation: "https://jroluttringer.github.io/#publication"
+  Development: "https://jroluttringer.github.io/#presentation"
+  Misc: "https://jroluttringer.github.io/#research"
     
     
  
