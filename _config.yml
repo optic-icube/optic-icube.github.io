@@ -1,10 +1,10 @@
 # --- General options --- #
 
 # Name of website
-title: " "
+title: "OPTIC"
 
 # Short description of your site
-desc: PhD Student
+desc: The Best Way to Cook your Hot-Potato
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -26,7 +26,6 @@ navbar-links:
   Teaching: "https://jroluttringer.github.io/#teaching"
   Reviewing: "https://jroluttringer.github.io/#review"
   Research: "https://jroluttringer.github.io/#research"
-  Resume: "https://drive.google.com/file/d/1WTAab_Y63_tvbGxLWBT3_IIYoaY5eN16/view?usp=sharing"
     
     
  
@@ -72,9 +71,9 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   email: "jr.luttringer@unistra.fr"
-  twitter: Jro_Luttringer
-  gitlab: jrluttringer
-  github: jroluttringer
+#  twitter: Jro_Luttringer
+#  gitlab: jrluttringer
+#  github: jroluttringer
 #  reddit: yourname
 #  linkedin: daattali
 #  xing: yourname
